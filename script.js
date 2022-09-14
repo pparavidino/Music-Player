@@ -23,15 +23,15 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        name : 'Poesia 6',
+        artist : 'Pineapple',
+        music : 'poesia 6.mp3'
     },
     {
         img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        name : 'I cant say',
+        artist : 'Taylor Swift',
+        music : 'Taylor.mp3.mp3'
     },
     {
         img : 'images/faded.png',
