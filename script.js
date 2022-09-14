@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
+        img : 'images/poesia.jpg',
         name : 'Poesia 6',
         artist : 'Pineapple',
         music : 'poesia 6.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
+        img : 'images/taylor.jpg',
         name : 'I cant say',
         artist : 'Taylor Swift',
         music : 'Taylor.mp3.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/chase.jpg',
+        name : 'Falling',
+        artist : 'Chase Atlantic',
+        music : 'Falling.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/luisa.jpg',
+        name : 'Hotel caro',
+        artist : 'Luisa Sonza',
+        music : 'luisa.mp3'
     }
 ];
 
